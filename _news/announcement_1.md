@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-5-9
 inline: true
 ---
 
-A simple inline announcement.
+Officially graduated from college :sparkles: :smile:

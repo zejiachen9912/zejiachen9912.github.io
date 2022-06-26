@@ -105,6 +105,27 @@ blockquote {
       margin: 0;
     }
   }
+
+  .resume {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+    p {
+      display: inline;
+      margin: 0;
+    }
+  }
+
+  .last_updated {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: serif;
+    font-size: 0.775em;
+    p {
+      display: inline;
+      margin: 0;
+    }
+  }
 }
 
 @media (min-width: 576px) {
@@ -238,7 +259,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -260,7 +281,7 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;

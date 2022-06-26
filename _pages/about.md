@@ -2,23 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Corporate Strategy Analyst @ Humana, BS in Quantitative Science from <a href = "https://quantitative.emory.edu/"> Emory University </a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile_pic.png
+  resume: >
+    Resume/CV
+  last_updated: >
+    <p>(as for May 2022)</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<h4 style="font-family:Helvetica; font-size:1.25em">About</h4>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome! I am a strategy consultant, digital marketing specialist, and data/computer science enthusiast with deep understanding in data analytics, strategic operation, and advertisement technology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I recently received my BS degree in Quantitative Science at **Emory University** with a secondary major in Film & Media Study, and currently working as a Corporate Strategy Analyst at **Humana**, where I partner with executives across the organization to help define the future trajectory of the company.
+
+As a connoisseur in fashion, I assisted with the birth of *Divine Mercy* (now [tribeplus](https://twitter.com/tribeplus)), an accessible streetwear brand aimed to promulgate western street culture in China.
+I also buy, sell and trade vintage, archival designer garments every now and then.
+
+<h4 style="font-family:Helvetica; font-size:1.25em">Interest & Writing</h4>
+
+Outside of work, I enjoy doing sports (tennis, boxing, hiking snowboarding), traveling, reading, and film photography.
+
+Being a Cinéphilie, I love watching, analyzing, and commenting about films and television series. Some of my favorite film eras include: classic Hollywood, New Waves, and Italian Neorealism. Feel free to check out [my blog](blog/category/film/) where I share my idea and point of view on particular films.
+
+I also have keen interest in machine/statistical learning as well as finance and investment. You can view some of the thoughts, notes that I jotted down as my learning journey continues.
+
+<br>
+
+---

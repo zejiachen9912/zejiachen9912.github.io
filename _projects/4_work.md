@@ -3,7 +3,7 @@ layout: page
 title: Queer-coded Villains in Animation & Its Legacy in <i>SPG</i>
 description: A video essay about the queer coding in the 90s animation <i>Super Powerpuff Girl</i>
 enable_hyperlink: true
-img: https://64.media.tumblr.com/fb33704e23358a9c08966587caf2bc59/d53180e398dddd86-99/s500x750/0918ca01ee2ecd17e2933b3dc0eb34a3024f65d5.gifv
+img: assets/img/him.gif
 yt: https://youtu.be/gKVUTtD3srU
 importance: 4
 category: work

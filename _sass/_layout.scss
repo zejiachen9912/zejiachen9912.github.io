@@ -9,6 +9,7 @@ body {
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
+    margin-bottom: 20px;
   }
 }
 
@@ -47,4 +48,55 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
-// TODO: redefine projects layout.
+p-contents {
+  align-self: start;
+  padding-right: 40em;
+  margin-top:  0em;
+  display: inline;
+
+  nav {
+    grid-column: toc;
+    a {
+      border-bottom-color: var(--global-divider-color) !important;
+      color: var(--global-text-color) !important;
+      border-bottom: none !important;
+      &:hover {
+        border-bottom-color: var(--global-hover-color) !important;
+      }
+    }
+    h4 {
+      margin-top: 0;
+      margin-bottom: 1em;
+    }
+    div {
+      display: block;
+      outline: none;
+      margin-bottom: 0.8em;
+      color: rgba(0, 0, 0, 0.8);
+      font-weight: bold;
+      font-size: 0.875em;
+    }
+    ul {
+      padding-left: 1em;
+      margin-top: 0;
+      margin-bottom: 6px;
+      list-style-type: none;
+      li {
+        margin-bottom: 0.25em;
+        font-size: 0.775em;
+      }
+    }
+    hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    margin-bottom: 8px
+    }
+  }
+  .figcaption {
+    line-height: 1.4em;
+  }
+}

@@ -2,7 +2,7 @@
 layout: page
 title: "This Website"
 enable_hyperlink: true
-redirect: https://github.com/zejiachen9912/WebsiteFolio
+redirect: https://github.com/zejiachen9912/zejiachen9912.github.io
 description: |
  If we are seeing this, that means the site probably is working :D
 importance: 1

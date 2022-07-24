@@ -3,7 +3,7 @@ layout: page
 title: Intro. to Statistical Learning
 description: A repository created for the class <b>QTM 385 - Statistical Learning</b> at Emory, hosting past ProblemSets, data analysis projects that my group wrote
 enable_hyperlink: true
-img: assets/img/sl.gif
+img: assets/img/ML.png
 importance: 1
 category: work
 github: https://github.com/zejiachen9912/statsticalLearning_QTM385

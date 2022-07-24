@@ -52,6 +52,9 @@
             {%- if site.stackoverflow_id -%}
             <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>
             {% endif %}
+            {%- if site.readwise_name -%}
+            <a href="https://readwise.io/@{{site.readwise_name}}" title="Readwise Broadcast"><i class="fas fa-bookmark"></i></a>
+            {% endif %}
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}

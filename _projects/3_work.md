@@ -3,7 +3,7 @@ layout: page
 title: Analysis for Grailed.Inc
 description: An in-depth business model analysis for the largest online marketplace for man's fashion - Grailed
 enable_hyperlink: true
-img: assets/img/grailed.gif
+img: assets/img/grailed-image.png
 pdf: ../assets/pdf/Grailed.pdf
 importance: 3
 category: work

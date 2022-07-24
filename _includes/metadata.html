@@ -131,6 +131,10 @@
         {%- capture link -%}https://stackoverflow.com/users/{{ site.stackoverflow_id }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
+    {%- if site.readwise_name -%}
+        {%- capture link -%}https://readwise.io/{{ site.readwise_name }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
     {%- if sameaslinks != blank -%}
         {%- assign sameaslinks = sameaslinks | split: "" -%}
     {%- endif -%}
@@ -147,7 +151,7 @@
         "description": "{%- if page.description -%}{{ page.description }}{%- else if site.description -%}{{ site.description }}{%- endif -%}",
         "headline": "{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}",
         {% if sameaslinks != blank -%}
-        "sameAs": {{ sameaslinks }}, 
+        "sameAs": {{ sameaslinks }},
         {%- endif %}
         "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}",
         "@context": "https://schema.org"

@@ -3,7 +3,7 @@ layout: distill
 title: <i>Bicycle Thieves</i> & De Sica' episodic narrative structure
 description: A short analysis on the episodic narrative structure of the classic Italian Neorealists film - <i>Bicycle Thieves</i>
 date: 2020-12-06 19:46
-tags: Italian_neorealism
+tags: Italian-neorealism
 categories: film
 
 authors:

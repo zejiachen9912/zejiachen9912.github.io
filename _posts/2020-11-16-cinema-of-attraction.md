@@ -3,7 +3,7 @@ layout: distill
 title: Thoughts on &quot;Cinemas of Attraction&quot;
 description: An excerpt and a reflection about &quot;Cinemas of Attraction&quot; by Tom Gunning
 date: 2020-11-16 22:56:00
-tags: essay_review
+tags: essay-review
 categories: film
 
 authors:

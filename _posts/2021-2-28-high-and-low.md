@@ -3,7 +3,7 @@ layout: distill
 title: <i>High And Low</i>
 description: A close examination of Akira Kurosawa's mastery in cinematography and mise-en-scene
 date: 2021-2-28
-tags: Japanese_film
+tags: Japanese-cinema
 categories: film
 
 authors:

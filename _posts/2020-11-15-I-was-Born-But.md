@@ -3,7 +3,7 @@ layout: distill
 title: <i>I was Born, But...</i>
 description: A commentary about Yasujiro Ozu's aptitude in parallel narrative structure, cinematography & 360 degree system in the film <i>I was Born, But...</i>  
 date: 2020-11-15 00:02:00
-tags: Japanese_film
+tags: Japanese-cinema
 categories: film
 
 authors:

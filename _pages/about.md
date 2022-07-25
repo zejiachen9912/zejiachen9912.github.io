@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Corporate Strategy Analyst @ Humana, BS in Quantitative Science from <a href = "https://quantitative.emory.edu/"> Emory University </a>
+subtitle: Corporate Strategy @ Humana, BS in Quantitative Science from <a href = "https://quantitative.emory.edu/"> Emory University </a>
 
 profile:
   align: right

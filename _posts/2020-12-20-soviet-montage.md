@@ -3,7 +3,7 @@ layout: distill
 title: Early Soviet Montage Movement
 description: A brief discussion about early Soviet montage movement & comparisons of montage employment between Pudovkin and Eisenstein
 date: 2020-12-20 15:46
-tags: Soviet_film
+tags: Soviet-cinema
 categories: film
 
 authors:

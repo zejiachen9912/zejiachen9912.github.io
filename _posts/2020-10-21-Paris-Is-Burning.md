@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: <i>Paris Is Burning</i>
-description: A film commentary about <i>Paris Is Burning</i>, a documentary about NY's queer community in the 90s.
+description: A commentary about <i>Paris Is Burning</i>, a documentary about NY's queer community in the 90s.
 date: 2020-10-21
 tags: queer documentary
 categories: film

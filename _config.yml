@@ -75,8 +75,8 @@ readwise_name: bzejia
 contact_note: >
   Feel free to reach me via email or Linkedin
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  fBTYH_5zaYoNS1OzpSOB2ZJwAsx5dQWS9lE_5PX7ezg
+google_analytics:  UA-240685579-1
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 

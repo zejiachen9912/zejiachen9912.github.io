@@ -10,7 +10,7 @@ profile:
   resume: >
     Resume/CV
   last_updated: >
-    <p>(as for May 2022)</p>
+    <p>(as of May 2022)</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 <h4 style="font-family:Helvetica; font-size:1.25em">About</h4>
 
-Welcome! I am a strategy consultant, healthcare specialist, and data/computer science enthusiast with a deep understanding of strategic planning, payor operation, and data analytics.
+Welcome! I am a strategy consultant, healthcare specialist, and data/computer science enthusiast with a deep understanding of enterprise strategic planning, US payor & provider operation, and data analytics.
 
-I recently received my BS degree in Quantitative Science from **Emory University** with a minor in Film & Media Study, and currently work as a Corporate Strategy Analyst at **Humana**, where I partner with senior leaders across the organization to chart the course of the company's key strategic initiatives.
+I recently received my BS degree in Quantitative Science from **Emory University** double majored in Film & Media Study, and currently work as a Corporate Strategy Analyst at **Humana**, where I partner with senior leaders across various LOBs to chart the course of the company's key strategic initiatives.
 
 As a fashion connoisseur, I helped create *Divine Mercy*, an accessible streetwear brand that aims to bring Western street culture to China. I also buy, sell and trade vintage and archival designer clothes every now and then.
 

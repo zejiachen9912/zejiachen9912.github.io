@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am a strategy consultant, healthcare specialist, and data/computer science enthusiast with a deep understanding of enterprise strategic planning, US payor & provider operation, and data analytics.
 
-I recently received my BS degree in Quantitative Science from **Emory University** double majored in Film & Media Study, and currently work as a Corporate Strategy Analyst at **Humana**, where I partner with senior leaders across various LOBs to chart the course of the company's key strategic initiatives.
+I recently received my BS degree in Quantitative Science from **Emory University** double majored in Film & Media Study, and currently work as a Corporate Strategy Consultant at **Humana**, where I partner with senior leaders across various LOBs to chart the course of the company's key strategic initiatives.
 
 As a fashion connoisseur, I helped create *Divine Mercy*, an accessible streetwear brand that aims to bring Western street culture to China. I also buy, sell and trade vintage and archival designer clothes every now and then.
 
